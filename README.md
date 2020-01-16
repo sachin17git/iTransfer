@@ -10,6 +10,6 @@
 ![art](https://user-images.githubusercontent.com/40026126/72504443-d4b87e80-3863-11ea-886a-2f564c3c4cad.jpg)
 
 ### Produced Image (512 x 512)
-#### The image has been resized because the VGG19 expects the image dimension to be 512x512.
+#### The image has been resized because the VGG19 network expects the image dimension to be 512x512.
 ![Image](https://user-images.githubusercontent.com/40026126/72504466-deda7d00-3863-11ea-9e1e-045aee739b5e.png)
 
